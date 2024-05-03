@@ -14,4 +14,4 @@ print 'hello world'
 
 
 
-![image-20240504013449005](C:\Users\16wjd\16wjdekdms_github_blog\16wjdekdms.github.io\images\2020-01-02-post1\image-20240504013449005.png)
+![lenna](https://raw.githubusercontent.com/16wjdekdms/16wjdekdms.github.io/master/images/lenna.png)
