@@ -14,4 +14,4 @@ print 'hello world'
 
 
 
-![lenna](https://raw.githubusercontent.com/16wjdekdms/16wjdekdms.github.io/master/images/lenna.png)
+![lenna](../../../Downloads/lenna.png)
