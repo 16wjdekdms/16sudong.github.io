@@ -11,3 +11,5 @@ This is code
 ```ruby
 print 'hello world'
 ```
+
+![image-20240504011752406](C:\Users\16wjd\16wjdekdms_github_blog\16wjdekdms.github.io\images\2020-01-02-post1\image-20240504011752406.png)
