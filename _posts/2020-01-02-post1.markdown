@@ -14,4 +14,4 @@ print 'hello world'
 
 
 
-![lenna](../images/2020-01-02-post1/lenna.png)
+![app1](../images/2020-01-02-post1/app1.png)
