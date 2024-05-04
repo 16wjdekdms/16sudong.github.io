@@ -11,7 +11,3 @@ This is code
 ```ruby
 print 'hello world'
 ```
-
-
-
-![app2](../images/2020-01-02-post1/app2.PNG)
